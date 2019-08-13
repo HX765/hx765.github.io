@@ -2,3 +2,20 @@ baseurl = "https://hx765.github.io"
 title = "Han's Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
+
+[params]
+
+  description = "Han's blog"
+  friends = true
+  bookmarks = false
+  about_me = true
+
+  [params.social]
+  rss            = true
+  email          = "hannyc@seas.upenn.com"
+  linkedin       = "https://www.linkedin.com/in/hanxiaocpa"
+  github         = "https://github.com/hx765"
+
+  [[params.friend_link]]
+  title = "Zhenyu Tian"
+  href =  "https://zhenyutian.com"
