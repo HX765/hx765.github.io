@@ -11,8 +11,8 @@ languageCode = "en-us"
   #header_image = "img/home-bg-jeep.jpg"
   #SEOTitle = "赵化冰的博客 | Zhaohuabing Blog"
   description = "Blog"
-  #keyword = "赵化冰, zhaohuabing, Zhaohuabing, , 赵化冰的网络日志, 赵化冰的博客, Zhaohuabing Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
-  #slogan = "路在脚下，心向远方"
+  #keyword = "add keyword"
+  #slogan = "add slogan"
 
   #image_404 = "img/404-bg.jpg"
   #title_404 = "你来到了没有知识的荒原 :("
@@ -27,16 +27,16 @@ languageCode = "en-us"
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
   #sidebar_avatar = "img/zhaohuabing.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-  featured_tags = true
-  featured_condition_size = 2
+  #featured_tags = true
+  #featured_condition_size = 2
 
   # We need a proxy to access Disqus api in China
   #disqus_proxy = "https://disqusapi.zhaohuabing.com"
   #disqus_site = "https://zhaohuabing.com"
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles
-  reward = true
-  reward_guide = "嗯，这篇文章对我有用，鼓励一下..."
+  #reward = true
+  #reward_guide = "嗯，这篇文章对我有用，鼓励一下..."
 
   friends = true
   bookmarks = true
