@@ -79,8 +79,11 @@ home = ["HTML", "RSS", "Algolia"]
   href =  "https://www.coursera.com"
 
   [[params.addtional_menus]]
-  title =  "POST"
-  href =  "/POST"
+  title =  "LIFE"
+  href =  "/life"
+  [[params.addtional_menus]]
+  title =  "PROJECT"
+  href =  "/projects"
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/top/about/"
