@@ -6,9 +6,37 @@
     <description>Recent content in Tags on Han Xiao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 14 Aug 2019 19:58:38 -0400</lastBuildDate>
     
 	<atom:link href="https://hx765.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>app</title>
+      <link>https://hx765.github.io/tags/app/</link>
+      <pubDate>Wed, 14 Aug 2019 19:58:38 -0400</pubDate>
+      
+      <guid>https://hx765.github.io/tags/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://hx765.github.io/tags/java/</link>
+      <pubDate>Wed, 14 Aug 2019 19:58:38 -0400</pubDate>
+      
+      <guid>https://hx765.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mood</title>
+      <link>https://hx765.github.io/tags/mood/</link>
+      <pubDate>Wed, 14 Aug 2019 15:49:38 -0400</pubDate>
+      
+      <guid>https://hx765.github.io/tags/mood/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
