@@ -14,7 +14,8 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/homepage-bg-h.jpg"
-  description = "Han Xiao's blog"
+  SEOTitle = "Han Xiao Blog"
+  description = "Han Xiao's personal blog"
   keyword = ""
   slogan = "No regrets in life. Just lesson learned."
 
