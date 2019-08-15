@@ -12,13 +12,13 @@
     
     
     <item>
-      <title> Earning Beats</title>
+      <title> Earning Beats app</title>
       <link>https://hx765.github.io/post/2019-08-13-earningbeats/</link>
       <pubDate>Wed, 14 Aug 2019 19:58:38 -0400</pubDate>
       
       <guid>https://hx765.github.io/post/2019-08-13-earningbeats/</guid>
-      <description>591 Final Project
-demo video   </description>
+      <description>I am a part time graduate student at Upenn MCIT program. In this summer, I took CIT591 - Introduction to Software Development course in which we created a Java based app as final team project.
+We built a tool that is designed to compare public companies reported earnings and consensus estimate and present a direct visualization to user. Users of our tool can utilize the data points analysis to make investment decisions.</description>
     </item>
     
   </channel>
