@@ -1,10 +1,10 @@
 baseurl = "https://hx765.github.io"
-title = "Han Xiao's blog"
+title = "Han Xiao"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
-googleAnalytics = ""
+disqusShortname = "hanxiao-blog"
+googleAnalytics = "UA-145766829-1"
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
@@ -13,28 +13,24 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = ""
+  header_image = "img/homepage-bg-h.jpg"
   description = "Han Xiao's blog"
   keyword = ""
-  slogan = ""
+  slogan = "No regrets in life. Just lesson learned."
 
-  image_404 = ""
-  title_404 = ""
+  image_404 = "img/404-bg.jpg"
+  title_404 = "The server just zoned out."
 
-  # leancloud storage for page view counter
-  page_view_conter = false
-  leancloud_app_id = ""
-  leancloud_app_key = ""
 
   # algolia site search
   algolia_search = true
-  algolia_appId = ""
-  algolia_indexName = ""
-  algolia_apiKey = ""
+  algolia_appId = "2S7W5R4SR4"
+  algolia_indexName = "blog"
+  algolia_apiKey = "b3fb47dcc634b5c32e38b66054ca95f9"
 
   # Sidebar settings
   sidebar_about_description = "Learner, High mover"
-  sidebar_avatar = ""      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/avatar.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true
   featured_condition_size = 1
@@ -68,22 +64,14 @@ home = ["HTML", "RSS", "Algolia"]
   email          = "hannyc@seas.upenn.edu"
   linkedin       = "https://www.linkedin.com/in/hanxiaocpa"
   github         = "https://github.com/hx765"
+  #douban         = ""
 
 
   [[params.friend_link]]
   title = "Zhenyu Tian"
   href =  "https://zhenyutian.com"
 
-  [[params.bookmark_link]]
-  title =  "Coursera"
-  href =  "https://www.coursera.com"
 
-  [[params.addtional_menus]]
-  title =  "LIFE"
-  href =  "/life"
-  [[params.addtional_menus]]
-  title =  "PROJECT"
-  href =  "/projects"
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/top/about/"
