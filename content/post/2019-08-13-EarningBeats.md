@@ -1,15 +1,22 @@
 ---
-title: " Earning Beats"
+title: " Earning Beats app"
 date: 2019-08-14T19:58:38-04:00
-draft: true
+draft: false
 author: Han Xiao
+subtitle:   "591 Final Project"
 categories: [ Project ]
 tags:
   - java
   - app
 ---
 
-591 Final Project
+I am a part time graduate student at Upenn MCIT program. In this summer, I took CIT591 - Introduction to Software Development course in which we created a Java based app as final team project.
 
-demo video
+We built a tool that is designed to compare public companies reported earnings and consensus estimate and present a direct visualization to user. Users of our tool can utilize the data points analysis to make investment decisions. This tool can also be used by financial statement preparer to verify the alignment of quarterly earnings.
+
+Take a look of our demo video
 {{< vimeo 351893542 >}}
+
+Check out our [git repository](https://github.com/HX765/EarningBeats) for the source code.
+
+Leave a comment below of what you think of this project.

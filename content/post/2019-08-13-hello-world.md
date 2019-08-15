@@ -1,9 +1,9 @@
-mit---
-title: "Welcome"
+---
+title: "Hello World"
 date: 2019-08-14T15:49:38-04:00
 draft: false
-subtitle:   "welcome to my blog"
-description: "first blog"
+subtitle:   "Welcome to my blog"
+description: ""
 excerpt: "Hello World"
 categories: [ Life ]
 tags:
@@ -20,6 +20,7 @@ My blog is officially launched. This is the first time I built a website from st
 I don't have a clear thought of what I should write about in this blog. Feel free to drop some ideas in the comment below.
 
 Special thanks to following people and organization creating the great open source tool and materials:
+
 - This website is built using [Hugo](https://gohugo.io), a static site generator.
 - I have no prior knowledge of HTML, CSS and Go. Hugo technical documents are great resources, but for a beginner, a step-by-step video tutorial is much more helpful. This is what I watched [Mike Dane Hugo video tutorial](https://www.mikedane.com/static-site-generators/hugo/)
 - [Hugo静态网站生成器中文教程](http://nanshu.wang/post/2015-01-31/) 网友介绍的Hugo中文教材。简单实用
