@@ -1,5 +1,5 @@
 ---
-title: " Earning Beats app"
+title: " Earning Beats"
 date: 2019-08-14T19:58:38-04:00
 draft: false
 author: Han Xiao
@@ -19,4 +19,4 @@ Take a look of our demo video
 
 Check out our [git repository](https://github.com/HX765/EarningBeats) for the source code.
 
-Leave a comment below of what you think of this project.
+What do you think of our app? Leave a comment below.
