@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Han Xiao</title>
+    <link>https://hx765.github.io/</link>
+    <description>Recent content on Han Xiao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Aug 2019 19:58:38 -0400</lastBuildDate>
+    
+	<atom:link href="https://hx765.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Earning Beats app</title>
+      <link>https://hx765.github.io/post/2019-08-13-earningbeats/</link>
+      <pubDate>Wed, 14 Aug 2019 19:58:38 -0400</pubDate>
+      
+      <guid>https://hx765.github.io/post/2019-08-13-earningbeats/</guid>
+      <description>I am a part time graduate student at Upenn MCIT program. In this summer, I took CIT591 - Introduction to Software Development course in which we created a Java based app as final team project.
+We built a tool that is designed to compare public companies reported earnings and consensus estimate and present a direct visualization to user. Users of our tool can utilize the data points analysis to make investment decisions.</description>
+    </item>
+    
+    <item>
+      <title>Summer ends</title>
+      <link>https://hx765.github.io/post/2019-08-13-tag-test-2/</link>
+      <pubDate>Wed, 14 Aug 2019 16:17:00 -0400</pubDate>
+      
+      <guid>https://hx765.github.io/post/2019-08-13-tag-test-2/</guid>
+      <description>test</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://hx765.github.io/post/2019-08-13-hello-world/</link>
+      <pubDate>Wed, 14 Aug 2019 15:49:38 -0400</pubDate>
+      
+      <guid>https://hx765.github.io/post/2019-08-13-hello-world/</guid>
+      <description>&amp;ldquo;Hello World&amp;rdquo; My blog is officially launched. This is the first time I built a website from stretch. I didn&amp;rsquo;t think much when I decided not to use a blog builder. For one, I don&amp;rsquo;t want to pay the fee. For two, WordPress is blocked by the GFW. The level of difficulty was unexpected. It took me a whole week to get it up there. I&amp;rsquo;m having a two week</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hx765.github.io/search/placeholder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hx765.github.io/search/placeholder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hx765.github.io/top/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hx765.github.io/top/about/</guid>
+      <description>About me Hi, Welcome to my blog.
+Initially, I wanted to create a blog to display my projects. After I spent so much time learning how to build a site using Github pages and Hugo, I think I am obligated to myself to keep writing posts. My avatar is an illustration from YAOYAO MA VAN. I love her painting. My blog template is Clear White created by Zhaohua Bing. Thanks a lot.</description>
+    </item>
+    
+  </channel>
+</rss>

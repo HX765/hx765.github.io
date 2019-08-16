@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Han Xiao</title>
+    <link>https://hx765.github.io/categories/life/</link>
+    <description>Recent content in Life on Han Xiao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 14 Aug 2019 16:17:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://hx765.github.io/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Summer ends</title>
+      <link>https://hx765.github.io/post/2019-08-13-tag-test-2/</link>
+      <pubDate>Wed, 14 Aug 2019 16:17:00 -0400</pubDate>
+      
+      <guid>https://hx765.github.io/post/2019-08-13-tag-test-2/</guid>
+      <description>test</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://hx765.github.io/post/2019-08-13-hello-world/</link>
+      <pubDate>Wed, 14 Aug 2019 15:49:38 -0400</pubDate>
+      
+      <guid>https://hx765.github.io/post/2019-08-13-hello-world/</guid>
+      <description>&amp;ldquo;Hello World&amp;rdquo; My blog is officially launched. This is the first time I built a website from stretch. I didn&amp;rsquo;t think much when I decided not to use a blog builder. For one, I don&amp;rsquo;t want to pay the fee. For two, WordPress is blocked by the GFW. The level of difficulty was unexpected. It took me a whole week to get it up there. I&amp;rsquo;m having a two week</description>
+    </item>
+    
+  </channel>
+</rss>
