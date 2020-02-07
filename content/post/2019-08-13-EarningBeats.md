@@ -4,10 +4,11 @@ date: 2019-08-14T19:58:38-04:00
 draft: false
 author: Han Xiao
 subtitle:   "591 Final Project"
-categories: [ Project ]
+categories: [ Learn ]
 tags:
   - java
   - app
+  - MCIT
 ---
 
 I am a part time graduate student at Upenn MCIT program. In this summer, I took CIT591 - Introduction to Software Development course in which we created a Java based app as final team project.
