@@ -4,7 +4,7 @@ date: 2019-08-14T19:58:38-04:00
 draft: false
 author: Han Xiao
 subtitle:   "591 Final Project"
-categories: [ Learn ]
+categories: [ Project ]
 tags:
   - java
   - app
